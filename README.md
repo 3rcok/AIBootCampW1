@@ -1,5 +1,6 @@
 # AIBootCampW1 — Text API
 
+
 A small [FastAPI](https://fastapi.tiangolo.com/) service that exposes text summarization and sentiment analysis using the OpenAI API.
 
 ## Requirements
